@@ -1,14 +1,13 @@
 <h1 align="center">< Hi 👋, I'm Ihor Hovdan /></h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 📬 How to reach me [https://www.linkedin.com/in/ihor-hovdan-6962302bb/](https://www.linkedin.com/in/ihor-hovdan-6962302bb/)
-
 - 📨 Contact me here **ihor99@outlook.it**
 
 - 💻🎧🌱🕺 **I love coding, music, nature and dancing...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ihor-hovdan-6962302bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihor-hovdan-6962302bb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
