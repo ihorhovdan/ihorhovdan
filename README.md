@@ -5,6 +5,8 @@
 
 - 💻🎧🌱🕺 **I love coding, music, nature and dancing...**
 
+- 👨‍🎓 **my portfolio** https://ihorhovdan.github.io/Portfolio/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ihor-hovdan-6962302bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihor-hovdan-6962302bb/" height="30" width="40" /></a>
